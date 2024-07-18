@@ -39,7 +39,7 @@
 // const name2 = "world2"
 // console.log(name2);
 
-//same name fir se variable nhi banega
+//same name se fir se variable nhi banega
 // var name = "hello"
 // let name = "hello1"
 // const name = "hello2"
